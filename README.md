@@ -56,6 +56,9 @@ Please read `example/README.md` to get all the descriptions of codes in `example
   publisher={National Acad Sciences}  
 }
 
+## Authors
+You can contact either **Juan Zhao** (zhaojuan@sibs.ac.cn) or **Yiwei Zhou** (zhou_panda@foxmail.com) for any questions about the codes or the paper.
+
 ## License
 
 Apache License 2.0
